@@ -3,10 +3,9 @@
 
 # Hi, I'm Sun 👋
 
-### Technology Enthusiast | Full-Stack JavaScript
+### Full-Stack JavaScript | Software Development
 
-Building my career in technology through hands-on projects, problem-solving, and continuous learning.
-
+Interested in software development and technology, with hands-on experience from personal and team projects. Always looking to learn, improve, and explore new technologies.
 </div>
 
 ---
