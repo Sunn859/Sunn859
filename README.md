@@ -124,6 +124,7 @@ A team-developed marketplace for buying and selling second-hand IT products, des
 
 - **GitHub:** [Sunn859](https://github.com/Sunn859)
 - **Email:** [tanakorn34908@gmail.com](mailto:tanakorn34908@gmail.com)
+- - **Email:** 0945294635
 
 
 
