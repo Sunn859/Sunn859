@@ -5,7 +5,10 @@
 
 ### Full-Stack JavaScript | Software Development
 
-Interested in software development and technology, with hands-on experience from personal and team projects. Always looking to learn, improve, and explore new technologies.
+Interested in software development and technology, with hands-on experience from personal and team projects.
+
+Always looking to learn, improve, and explore new technologies.
+
 </div>
 
 ---
@@ -71,12 +74,14 @@ A personalized stone recommendation website designed to help users discover ston
 - Favorite stone management
 - REST API integration between frontend and backend
 
-**Tech** `React` `Node.js` `Express` `MySQL` `Prisma` `JWT`
+**Tech**
+
+`React` `Node.js` `Express` `MySQL` `Prisma` `JWT`
 
 **Repositories**
 
-- [Frontend](https://github.com/Sunn859/aura-stones-frontend)
-- [Backend](https://github.com/Sunn859/aura-stones-backend)
+- [Frontend Repository](https://github.com/Sunn859/aura-stones-frontend)
+- [Backend Repository](https://github.com/Sunn859/aura-stones-backend)
 
 ---
 
@@ -99,12 +104,14 @@ A team-developed marketplace for buying and selling second-hand IT products, des
 - Developed registration, login, and user dashboard functionality
 - Collaborated with team members on frontend development
 
-**Tech** `React` `Node.js` `Express` `PostgreSQL` `Prisma` `Zustand` `JWT`
+**Tech**
+
+`React` `Node.js` `Express` `PostgreSQL` `Prisma` `Zustand` `JWT`
 
 **Repositories**
 
-- [Frontend](https://github.com/Sunn859/spac_hub_frontend)
-- [Backend](https://github.com/Sunn859/spec_hub_backend)
+- [Frontend Repository](https://github.com/Sunn859/spac_hub_frontend)
+- [Backend Repository](https://github.com/Sunn859/spec_hub_backend)
 
 *Team project — repositories forked from the original team project.*
 
@@ -123,7 +130,8 @@ A team-developed marketplace for buying and selling second-hand IT products, des
 
 - **GitHub:** [Sunn859](https://github.com/Sunn859)
 - **Email:** [tanakorn34908@gmail.com](mailto:tanakorn34908@gmail.com)
-- **Email:** 0945294635
+- **Phone:** 094-529-4635
+
 
 
 
